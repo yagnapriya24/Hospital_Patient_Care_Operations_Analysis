@@ -48,7 +48,7 @@ The database contains **5 interconnected tables**:
 
 The ER diagram represents the database tables and their relationships.
 
-![Hospital ER Diagram](ER_Diagram/Hospital_ER_Diagram.png)
+<img width="1917" height="916" alt="image" src="https://github.com/user-attachments/assets/93b05743-4ec4-4308-aa17-4e97182a1ca2" />
 
 ---
 
